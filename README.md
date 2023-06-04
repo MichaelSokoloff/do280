@@ -1,2 +1,2 @@
 # do280
-My labs for OpenShift v. 4.12
+My materials and labs for OpenShift v. 4.12
